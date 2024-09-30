@@ -1,0 +1,12 @@
+#cancelButton {
+    margin-left: 375px;
+}
+
+#emailInput, #passwordInput {
+    width: 300px;
+}
+
+#emailPasswordText {
+    width: 110px;
+    display: inline-block;
+}

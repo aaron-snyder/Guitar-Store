@@ -1,0 +1,6 @@
+main section input[type="text"],
+main section button,
+main section p:last-child input[type="text"] {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
